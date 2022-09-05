@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "T.S. Eliot Memorial Reading for the Woodberry Poetry Room: Claudia Rankine (4/22/21)" ] },
+    "homepage": [
+      {
+        "id": "https://www.youtube.com/watch?v=tiNKQu6Dnp8&amp;list=PLDtBhamUEttGlNoHGE1seYPjGx6SlReH1&amp;index=6",
+        "type": "Text",
+        "label": { "en": [ "T.S. Eliot Memorial Reading for the Woodberry Poetry Room: Claudia Rankine (4/22/21)" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.youtube.com/",
+        "type": "Agent",
+        "label": { "en": [ "Youtube" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2561.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.youtube.com/watch?v=tiNKQu6Dnp8&list=PLDtBhamUEttGlNoHGE1seYPjGx6SlReH1&index=6",
+                    "duration": 2561.0
+                },
+                "target": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
