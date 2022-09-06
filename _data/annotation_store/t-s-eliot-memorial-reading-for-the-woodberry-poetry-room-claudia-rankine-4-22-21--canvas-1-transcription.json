@@ -1,0 +1,176 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG: My goodness, Christina, thank you! That was amazing. Not my part but the part about Claudia that was fantastic everybody round of applause please. So this evening it is my honor and enormous pleasure to introduce a person I admire and for whom I have enormous affection, Claudia Rankine, as she presents the TS Eliot Memorial reading a Woodberry Poetry Room here at Harvard University. Currently the Frederick Iseman Professor of Poetry at Yale within Departments of African American Studies and English. Born in Kingston JA (that’s Jamaica!) Rankine received her BA at Williams and MA at Columbia. The poet’s first collection of verse which I love Nothing in Nature is Private, published in 1994, won the Cleveland State Poetry Prize the first of many accolades and awards that her work would garner since then she’s published five more books of poetry and her 2014 publication Citizen: An American Lyric won both the Pen Open Book Award as well as the Pen Literary Award, the NAACP Image Award. Further Citizen holds the unique position of being the only book of poetry in history to be a New York Times Bestseller in the Nonfiction category—I love that—just as her brilliant poetry moves easily among genres, her writing encompasses several, including three plays, Help premiered March 2002 at The Shed in New York City, and in a joint production with Arts Emerson and our own American Repertory Theater, Rankine’s play White Card, which I actually saw and enjoyed enormously, was staged in 2018. As well her 3 plays Rankine has co-edited several anthologies including American Women Poets in the 21st Century, Where Lyric Meets language in 2002, and The Racial Imaginary Writers on Race and the Life of the Mind Published in 2015, and of course her own poems have been included in numerous anthologies including Great American Prose Poems from Poe to the Present. She’s also been part of numerous video collaborations. In 2016, Rankine co-founded the racial imaginary institute, funded in part by the proceeds from her 2016 MacArthur grant. As well as the Macarthur Genius Fellowship Grant, Rankine is the recipient of a 2017 Guggenheim Fellowship, The Bobbit National Prize for Poetry, and the poets and writers Jackson Poetry Prize. In addition, she’s been awarded fellowships and prizes from the Academy of American Poetry, The Lannan Foundation, and the National Endowment of the Arts among many, many others. Please welcome Claudia Rankine as she reads from her most recent publication, a brilliant publication called Just Us: An American Conversation. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "258.0,483"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR: I am, I wanted to start, many starts. I wanted to start by looking at some passages from Thomas Jefferson which is, you know, from notes on Virginia but in Just Us it's called Notes on the State of Whiteness and I love Jefferson because of how...contradictory he is, how human he is, (laughing), how capitalist he is, How, um, you know, on the one hand, he knows to incite people is not a good thing. On the other hand, he wants to have parties, and he needs somebody to help him out with that. (laughing) So..and he wants to buy wine, and he wants to buy paintings, and he takes out a mortage and the enslaved people are part of that mortage. So he cannot, he cannot free them. But it doesnt mean he doesn't know. It doesn't mean he doesn't know. So, I wanted to so I wanted to begin with the section, Their griefs are transient. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "967,1050"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR: You obviously know this is an erasure but I don't really see it as an erasure so much but as a document recreated to bring forward places in the text that might, um, be lost, um, by the words around them. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1055,1080"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And before I go on. I don't know how many of you watched the trials but the thing that struck me most was the number of ways in which different witnesses said you know it's too much, all of this is too much. And I try to stay in my body, or it's too much and it's upsetting to see somebody die. You know the defense is trying to claim that people are not capable of assessing what the police was doing because they were angry. And they're like, no, it's just upsetting to watch somebody be killed, be murdered.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1085,1133"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "After the line, In memory they are equal to whites in reason inferior, CR states: And and I feel like these thoughts by Jefferson are thoughts that the defense actually continued to make in the trial by insisting that people don't know what they see. So I have um, one of the things I did in this book is not everything is written but everything is forced in one way or another to meet the lyric. And so one of the poems in the book which I'll read is by James Baldwin from the White Man's Guilt but it wasn't it is not a poem but it was lineated by me into the lyric form. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1181,1247"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR: And I'm going to stop sharing now, but one of things that has happened this week since it's only been two days since Chauvin was convicted is that I feel like many people and many of them white people want to put everything to rest with a decision that is, somebody called it an exception to the exception (CR laughs) and it's good that it happened but it has nothing to do with the system at large. We had a judge that claimed that Maxine Waters by calling for a response if justice wasn't served, um that would give the defense the ability to appeal, which they no doubt will appeal. And so, we can be pleased that something that should have been ordinary happened, but we can't be deluded into thinking that the system itself has been fixed by a single moment, a single exception. I just wanted to say that because it is. The piece that began Just Us was an essay written for The New York Times on talking to white men about white privilege. And, you know, I don't know why I started that but I, I thought it would be interesting to know what they were thinking since they control so much of my life. You know, the president of the college where I teach is a white man. There are white men who solicit me at the New York Times to work, all of them good people, I'm not saying anything against them personally, but, um, they are in some way in charge of my life. if we look to see who's in positions of power across the board, many of them are white men. So I t ought why not ask them about what they are thinking about all that they have. And so that's how I got myself into this essay, but I wanted to read just the section on the final conversation I had. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1350,1542"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That response that he gave me. I mean the part of it that I find the most moving actually is when he said, \"I realize that I had misrepresented something I said to you about my hometown. I don't know why. I certainly hadn't done it intentionally and I realized I thought I was being honest in the moment.\" And so this, the way in which our white supremacist foundational orientation, acculturation, whatever you want it to call it, doesn't allow white people to understand even why they do the things they do, to shield themselves from their own fantasies in order not to have to apprehend the realities in front of them is something that continutes to interest me in a way, and sort of was the driving force in just us. I am going to end by reading a page from the end of the book. (Sound of pages turning)",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1965,2049"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR: I love the automated clap. CD: It is not automated it is from the archive. CR: Laughs. CD: It is from a previous recording of applause from a previous event you did for us, Claudia. CR: Laughs. Oh, that's perfect. CD: So, listen everyone please unmute your mics and join me in thanking Claudia and sharing your love and gratitude and we will not be having a Q & A tonight or and I love that line or any strucutre that constricts possibility but we'd love to hear how her words resonate with you. So please unmute your mics and say hello. Audience: Many many many many thank yous overlapping, incredible, so glad I got to be here. HLG: I'm sorry we can't take you for dinner at Benedetto's. CD: Laughs, I'm here! HLG: I would pick the wine. So same time next year?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2407,2501"
+        }
+      }
+    }
+  ]
+}

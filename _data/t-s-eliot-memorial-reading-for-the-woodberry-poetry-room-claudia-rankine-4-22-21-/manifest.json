@@ -5,7 +5,7 @@
     "label": { "en": [ "T.S. Eliot Memorial Reading for the Woodberry Poetry Room: Claudia Rankine (4/22/21)" ] },
     "homepage": [
       {
-        "id": "https://www.youtube.com/watch?v=tiNKQu6Dnp8&amp;list=PLDtBhamUEttGlNoHGE1seYPjGx6SlReH1&amp;index=6",
+        "id": "https://www.youtube.com/watch?v=tiNKQu6Dnp8&amp;amp;list=PLDtBhamUEttGlNoHGE1seYPjGx6SlReH1&amp;amp;index=6",
         "type": "Text",
         "label": { "en": [ "T.S. Eliot Memorial Reading for the Woodberry Poetry Room: Claudia Rankine (4/22/21)" ] },
         "format": "text/html"
@@ -23,6 +23,92 @@
         "id": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2561.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-essay-excerpt-.json",
+            "label": "Essay excerpt "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematography---environment.json",
+            "label": "Cinematography + Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-editing.json",
+            "label": "Editing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-poem---environment-.json",
+            "label": "Poem + Environment "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription---embodiment-.json",
+            "label": "Transcription + Embodiment "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-poem---textual-deviation.json",
+            "label": "Poem + Textual Deviation"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1--cinematograph---environment.json",
+            "label": " Cinematograph + Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-poem.json",
+            "label": "Poem"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematography---transcription.json",
+            "label": "Cinematography + Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematogaphy---transcription-.json",
+            "label": "Cinematogaphy + Transcription "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematograph---environment-.json",
+            "label": "Cinematograph + Environment "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematography.json",
+            "label": "Cinematography"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-.json",
+            "label": "Transcription "
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/paintings",

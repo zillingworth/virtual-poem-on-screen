@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-editing.json",
+  "type": "AnnotationPage",
+  "label": "Editing",
+  "items": [
+
+  ]
+}
