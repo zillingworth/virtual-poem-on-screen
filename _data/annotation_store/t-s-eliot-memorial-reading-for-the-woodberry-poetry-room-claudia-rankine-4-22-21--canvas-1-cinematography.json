@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematography.json",
+  "type": "AnnotationPage",
+  "label": "Cinematography",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematography-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR begins share screen of notes on the state of whiteness. The copy is a scan from Just Us that looks like a worn book, beginning on page 115 with the line: Their griefs are transient ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1051"
+        }
+      }
+    }
+  ]
+}

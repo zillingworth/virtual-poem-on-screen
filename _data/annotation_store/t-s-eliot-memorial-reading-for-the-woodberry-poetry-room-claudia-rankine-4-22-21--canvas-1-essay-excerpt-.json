@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-essay-excerpt-.json",
+  "type": "AnnotationPage",
+  "label": "Essay excerpt ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-essay-excerpt--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR reads essay excerpt beginning on page 49 to page 53 of Just Us [Add hypothesis annotations of Springsteen + Commodore songs mentioned]: Not long after this I was on another flight and sitting next to a white man who felt as if he could already be a friend...",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1375,1963"
+        }
+      }
+    }
+  ]
+}

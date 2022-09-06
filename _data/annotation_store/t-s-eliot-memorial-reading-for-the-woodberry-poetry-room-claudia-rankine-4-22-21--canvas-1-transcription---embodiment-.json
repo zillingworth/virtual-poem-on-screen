@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription---embodiment-.json",
+  "type": "AnnotationPage",
+  "label": "Transcription + Embodiment ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription---embodiment--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Thank you, thank you, Professor Gates, Christina Davis, and everyone for spending this evening with me. I've been looking forward. I'm going to start by showing a video because why not? *She smiles and looks at the camera* And then I will read. So first I'm going to share the screen. That's always a point of anxiety...will this work ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "496,529"
+        }
+      }
+    }
+  ]
+}

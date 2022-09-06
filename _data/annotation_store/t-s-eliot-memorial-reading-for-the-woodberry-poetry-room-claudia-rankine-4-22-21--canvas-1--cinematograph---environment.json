@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1--cinematograph---environment.json",
+  "type": "AnnotationPage",
+  "label": " Cinematograph + Environment",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1--cinematograph---environment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to HLG in Speaker View + Close up in planar framing, behind him is a painting that looks like a print from the Jacob Lawrence migration series of a Black farmer with pigs",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "260.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription-.json",
+  "type": "AnnotationPage",
+  "label": "Transcription ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Off-screen male voice: Because if you can have a basis for where the number comes from and what the situation is that puts them in the situation. Officer 1: Mmmhhhmm Off-screen male voice: Are they more likely to be in this situation than someone who's not transgender? Officer 1: Mmhmm yes. Off-screen male voice: Which I don't know what that is, I'm just saying. My wife has never been part of police violence. Most of the people that I know have never been, accused the police of violence. So I guess I don't get where that's supposed to come from. Officer 1: It's a white male privilege so you wouldn't know. Off-screen voice: I'm sorry (angrily). I'm sorry?! (Repeated in voiceover) It's a white male privilege so you wouldn't know. Officer 1: I can end this right now, ok? Chief: We want to keep it safe and professiona;. That's my role and objective. So I don't want to focus on the statistics. Off-screen voice: CHIEF! Chief: Quite frankly. Off-screen voice: *interrupts* SERIOUSLY, I'M ASKING A LEGITIMATE QUESTION. And I've been taught white privilege are you serious? I find that extremely offensive. Voices overlap. Off-screen voice: In America?! I will leave. I file it on your desk. Chief: We're not talking about white privilege here. We're trying to focus on a different demographic. I'm going to keep this professional. And I apologize if anybody if offended. This data that we have here--",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "529.0,630"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-transcription--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to photo of Leonard Cohen and a caption that reads: Outro / Claudia Rankine selected Leonard Cohen's Different Sides / Due to copyright restrictions the the music has been removed from the footage / Back to gallery view as caption remains signifying music is playing. END RECORDING",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2546,2561"
+        }
+      }
+    }
+  ]
+}

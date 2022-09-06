@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematogaphy---transcription-.json",
+  "type": "AnnotationPage",
+  "label": "Cinematogaphy + Transcription ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21--canvas-1-cinematogaphy---transcription--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR: Well, I chose Leonard Cohen because actually, Skip, you'll recognize it...it was the final song in White Card; HLG in speaker View: Yes, I do. In speaker view: High pitched noise from unmuted mic, puts older unknown woman in speaker view briefly. CR in speaker view: And, it's about conversation which I think maps onto Just Us in a nice way. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/t-s-eliot-memorial-reading-for-the-woodberry-poetry-room-claudia-rankine-4-22-21-/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2516,2533"
+        }
+      }
+    }
+  ]
+}
