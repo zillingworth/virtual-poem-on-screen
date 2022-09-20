@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Claudia Rankine" ] },
+    "homepage": [
+      {
+        "id": "youtube.com",
+        "type": "Text",
+        "label": { "en": [ "Claudia Rankine" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "youtube.com",
+        "type": "Agent",
+        "label": { "en": [ "Youtube" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2561.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://www.youtube.com/watch?v=tiNKQu6Dnp8&list=PLDtBhamUEttGlNoHGE1seYPjGx6SlReH1&index=5",
+                    "duration": 2561.0
+                },
+                "target": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
