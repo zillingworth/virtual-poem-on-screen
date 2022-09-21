@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Clip of Claudia Rankine for WPR" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "Clip of Claudia Rankine for WPR" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "The Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 274.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601504.us.archive.org/32/items/rankineclip/Reading%20Clip%20for%20Demo.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 274.0
+                },
+                "target": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
