@@ -1,0 +1,1246 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: The Syrian poet Adonis has observed that there are thing that might not exist except through locution which is to say that certain words do not necessarily name something wholly extant or wholly as yet achieved but suggest something that might as Erica Hunt describes invent us more in the future or as Audre Lorde has written poetry is a vital necessity of our existence within which we predicate our hopes and dreams towards survival and change first made into language then into idea then into more tangible action, until the landscape of our words, as Edouard Glissant writes, becomes the landscape of our world. The Syrian poet Adonis has observed that there are thing that might not exist except through locution which is to say that certain words do not necessarily name something wholly extant or wholly as yet achieved but suggest something that might as Erica Hunt describes invent us more in the future or as Audre Lorde has written poetry is a vital necessity of our existence within which we predicate our hopes and dreams towards survival and change.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Adonis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Lorde",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Glissant",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46.0,90"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD:First made into language then into idea then into more tangible action, until the landscape of our words, as Edouard Glissant writes, becomes the landscape of our world. In Claudia Rankines book the word that is trying to become word is justice.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Glissant",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91,114"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD:and also as she so powerfully and poignantly reveals it is us. When talking about what happens to us, who is us? What us? She cites a friend as saying by putting the words Just and Us side by side, instead of fusing them into justice, Rankine is creating what one poet has called a, lang-wedge as in a wedge, a space, a breath, storying up that interval in which through which to forge a conversation.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Conversation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "114,153"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD:Conversation being something Rankine has come to define as attempting to stand in relation with our bodies and say it once I‚Äôm here and here a venturing of ones hand into that space toward what Fred Moten has called a grounded differing. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Conversation",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Moten",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "154,180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD:Tonights event is itself such a space and I cannot think of anyone more capable of helping us stand in relation that Professor Henry Louise Gates Jr., director of the Hutchins Center for African and African American Studies and the Alfonze Fletcher University Professor at Harvard in addition to having authored or co-authored more than twenty books and creating twenty documentaries, you might also know him as the host of the PBS awarding winning program Finding Your Roots. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "181,210"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD:What his title and resume might not tell you is in addition to his scholarly, civic, and artistic works he has also been instrumental in his efforts to help build the collections of Harvard Libraries of which the poetry room is a small part through both his personal donations most recently of Harriet Wilsons groundbreaking novel and through funds raised through Hutchins Center he has helped to acquire and provide access to the papers of Nobel Laureate Wole Soyinka, novelist Chinua Achebe and John Edgar Wideman, and poet June Jordan to name just a few.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Wilson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Achebe",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Soyinka",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jordan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "211,248"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: Please join me in welcoming the one the only professor Henry Louise Gates Junior who will introduce our honored guest this evening.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "249,257"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:My goodness Christina, thank you! That was amazing. Not my part about me but the part about Claudia. That was fantastic. Everybody round of applause for Christina please.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "260,272"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:So this evening it is my honor and enormous pleasure to introduce a person I admire and for whom I have enormous affection, Claudia Rankine, as she presents the TS Eliot Memorial reading a Woodberry Poetry Room here at Harvard University. Currently the Frederick Iseman Professor of Poetry at Yale within Departments of African American Studies and English. Rankine has had a long and distinguished career as poet, playwright, essayist, and educator. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "274,302"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:Born in Kingston JA (that is Jamaica!) Rankine received her BA at Williams and MA at Columbia. The poets first collection of verse which I love Nothing in Nature is Private, published in 1994, won the Cleveland State Poetry Prize the first of many accolades and awards that her work would garner. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305,330"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "HLG:Since then she has published five more books of poetry and her 2014 publication Citizen: An American Lyric won both the Pen Open Book Award as well as the Pen Literary Award, the NAACP Image Award and the National Book Critics Circle Award for Poetry. Further Citizen holds the unique position of being the only book of poetry in history to be a New York Times Bestseller in the Nonfiction category. I love that.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "NYT",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "331,367"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:just as her brilliant poetry moves easily among genres, her writing encompasses several, including three plays, Help premiered March 2002 at The Shed in New York City, and in a joint production with Arts Emerson and our own American Repertory Theater, Rankines play White Card, which I actually saw and enjoyed enormously, was staged in 2018. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "368,397"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:As well her 3 plays Rankine has co-edited several anthologies including American Women Poets in the 21st Century, Where Lyric Meets language in 2002, and The Racial Imaginary Writers on Race and the Life of the Mind Published in 2015, and of course her own poems have been included in numerous anthologies.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "398,445"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:including Great American Prose Poems from Poe to the Present. She has also been part of numerous video collaborations. In 2016, Rankine co-founded the racial imaginary institute, funded in part by the proceeds from her 2016 MacArthur grant. As well as the Macarthur Genius Fellowship Grant, Rankine is the recipient of a 2017 Guggenheim Fellowship, The Bobbit National Prize for Poetry, and the poets and writers Jackson Poetry Prize. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "446,451"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "HLG:In addition, she has been awarded fellowships and prizes from the Academy of American Poetry, The Lannan Foundation, and the National Endowment of the Arts among many, many others. Please welcome Claudia Rankine as she reads from her most recent publication, a brilliant publication called Just Us: An American Conversation.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "451,483"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:Thank you, thank you, Professor Gates, Christina Davis, and everyone for spending this evening with me. I've been looking forward. I'm going to start by showing a video because why not? *She smiles and looks at the camera* And then I will read. So first I'm going to share the screen. That's always a point of anxiety...will this work ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "496,529"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Off-screen male voice: Because if you can have a basis for where the number comes from and what the situation is that puts them in the situation. Officer 1: Mmmhhhmm Off-screen male voice: Are they more likely to be in this situation than someone who's not transgender? Officer 1: Mmhmm yes. Off-screen male voice: Which I don't know what that is, I'm just saying. My wife has never been part of police violence. Most of the people that I know have never been, accused the police of violence. So I guess I don't get where that's supposed to come from. Officer 1: It's a white male privilege so you wouldn't know. Off-screen voice: I'm sorry (angrily). I'm sorry?! (Repeated in voiceover) It's a white male privilege so you wouldn't know. Officer 1: I can end this right now, ok? Chief: We want to keep it safe and professional;. That's my role and objective. So I don't want to focus on the statistics. Off-screen voice: CHIEF! Chief: Quite frankly. Off-screen voice: *interrupts* SERIOUSLY, I'M ASKING A LEGITIMATE QUESTION. And I've been taught white privilege are you serious? I find that extremely offensive. Voices overlap. Off-screen voice: In America?! I will leave. I file it on your desk. Chief: We're not talking about white privilege here. We're trying to focus on a different demographic. I'm going to keep this professional. And I apologize if anybody if offended. This data that we have here--",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "police",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "529,630"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR in Speaker view: OK, so when the white woman who told the police officer (she was also a police officer) that he couldn't understand why transgender people were targeted by the police  and she said you can't understand because of your white male privilege that woman was put on leave and was given the position of no longer having any contact with anyone in the police force.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "police",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "630,668"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: So thats how she was to live out her time in the police force because she was a bad influence basically. And he the man who brought the charges against her for saying white male privilege, nothing happened to him. So that's that's the state of discourse in 2019. I don't know if things would have changed by now. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "police",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "668,696"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:But I wanted to begin with a quote from Paul Celan, he says, What times are these when a conversation is almost a crime? Because it includes so much made explicit. What times are these when a conversation is almost a crime? And with that I will start reading initially the opening poem from Just Us.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Celan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "696,726"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: I am, I wanted to start, many starts. I wanted to start by looking at some passages from Thomas Jefferson which is, you know, from Notes on Virginia but in Just Us it's called Notes on the State of Whiteness and I love Jefferson because of how...contradictory he is, how human he is, (laughing)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jefferson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "967,999"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: how capitalist he is, How, um, you know, on the one hand, he knows to incite people is not a good thing. On the other hand, he wants to have parties, and he needs somebody to help him out with that. (laughing)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jefferson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1000,1023"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: So..and he wants to buy wine, and he wants to buy paintings, and he takes out a mortgage and the enslaved people are part of that mortgage. So he cannot, he cannot free them. But it doesnt mean he doesn't know. It doesn't mean he doesnt know. So, I wanted to so I wanted to begin with the section, Their griefs are transient. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jefferson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "slavery",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1024,1050"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: You obviously know this is an erasure but I don't really see it as an erasure so much but as a document recreated to bring forward places in the text that might, um, be lost, um, by the words around them. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "erasure",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1055,1080"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:And before I go on. I don't know how many of you watched the trials but the thing that struck me most was the number of ways in which different witnesses said you know it's too much, all of this is too much.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "trial",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Floyd",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1085,1103"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:And I try to stay in my body, or its too much and it's upsetting to see somebody die. You know the defense is trying to claim that people are not capable of assessing what the police was doing because they were angry. And theyre like, no, its just upsetting to watch somebody be killed, be murdered.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "trial",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "police",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Floyd",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1103,1131"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: After the line, In memory they are equal to whites in reason inferior, CR states: And and I feel like these thoughts by Jefferson are thoughts that the defense actually continued to make in the trial by insisting that people dont know what they see, dont know what they see.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Jefferson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "trial",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1181,1209"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:So I have um, one of the things I did in this book is not everything is written but everything is forced in one way or another to meet the lyric. And so one of the poems in the book which I'll read is by James Baldwin from the White Man's Guilt but it wasn't it is not a poem but it was lineated by me into the lyric form. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Baldwin",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "lyric",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1209,1247"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: And Im going to stop sharing now, but one of things that has happened this week since it's only been two days since Chauvin was convicted is that I feel like many people and many of them white people want to put everything to rest with a decision that is, somebody called it an exception to the exception (CR laughs)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "trial",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chauvin",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1350,1381"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:and it's good that it happened but it has nothing to do with the system at large. We had a judge that claimed that Maxine Waters by calling for a response if justice wasn't served, um that would give the defense the ability to appeal, which they no doubt will appeal. And so, we can be pleased that something that should have been ordinary happened, but we can't be deluded into thinking that the system itself has been fixed by a single moment, a single exception.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "trial",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Waters",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1381,1432"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:I just wanted to say that because it is. The piece that began Just Us was an essay written for The New York Times on talking to white men about white privilege. And, you know, I don't know why I started that but I, I thought it would be interesting to know what they were thinking",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "NYT",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1432,1485"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: since they control so much of my life. You know, the president of the college where I teach is a white man. There are white men who solicit me at the New York Times to work, all of them good people, I'm not saying anything against them personally, but, um, they are in some way in charge of my life. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "NYT",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1485,1515"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:if we look to see who's in positions of power across the board, many of them are white men. So I thought why not ask them about what they are thinking about all that they have. And so that's how I got myself into this essay, but I wanted to read just the section on the final conversation I had.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1516,1542"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR:That response that he gave me. I mean the part of it that I find the most moving actually is when he said, I realize that I had misrepresented something I said to you about my hometown. I don't know why. I certainly hadn't done it intentionally and I realized I thought I was being honest in the moment.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1965,1988"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:And so this, the way in which our white supremacist foundational orientation, acculturation, whatever you want it to call it, doesn't allow white people to understand even why they do the things they do, to shield themselves from their own fantasies ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1991,2015"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:in order not to have to apprehend the realities in front of them is something that continues to interest me in a way, and sort of was the driving force in Just Us. I am going to end by reading a page from the end of the book. (Sound of pages turning)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2015,2045"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: I love the automated clap. CD: It is not automated it is from the archive. CR: Laughs. CD: It is from a previous recording of applause from a previous event you did for us, Claudia. CR: Laughs. Oh, that's perfect. CD: So, listen everyone please unmute your mics and join me in thanking Claudia and sharing your love and gratitude and we will not be having a Q & A tonight or and I love that line or any structure that constricts possibility but we'd love to hear how her words resonate with you. So please unmute your mics and say hello. Audience: Many many many many thank yous overlapping, incredible, so glad I got to be here. HLG: I'm sorry we can't take you for dinner at Benedetto's. CD: Laughs, I'm here! HLG: I would pick the wine. So same time next year?",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2407,2501"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "In speaker view, CD: So we usually close our Zoom events by having our author choose an outro tune. (Sound of unmuted mic making a high pitched noise) Maybe we could mute the mini mouse?  HLG: I would like The Commodores. CD: We can choose that second, but do you want to tell us why you chose what you chose? ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2501,2507"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: Well, I chose Leonard Cohen because actually, Skip, you'll recognize it...it was the final song in White Card; HLG in speaker View: Yes, I do. In speaker view: High pitched noise from unmuted mic, puts older unknown woman in speaker view briefly. CR in speaker view: And, it's about conversation which I think maps onto Just Us in a nice way. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Cohen",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2516,2533"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: We invited every to groove to it to listen and then sign off at any point in the song. Thank you all for coming. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2536,2544"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-intertitle.json",
+  "type": "AnnotationPage",
+  "label": "Intertitle",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-intertitle-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to photo of Leonard Cohen and a caption that reads: Outro / Claudia Rankine selected Leonard Cohen's Different Sides / Due to copyright restrictions the the music has been removed from the footage / Back to gallery view as caption remains signifying music is playing. END RECORDING",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2546,2561"
+        }
+      }
+    }
+  ]
+}

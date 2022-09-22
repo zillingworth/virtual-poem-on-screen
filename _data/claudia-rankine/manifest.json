@@ -23,6 +23,44 @@
         "id": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2561.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-transcription.json",
+            "label": "Transcription"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-poem.json",
+            "label": "Poem"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-image.json",
+            "label": "Image"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-essay.json",
+            "label": "Essay"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-image-and-environment.json",
+            "label": "Image and Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-intertitle.json",
+            "label": "Intertitle"
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/paintings",

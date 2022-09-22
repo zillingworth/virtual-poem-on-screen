@@ -1,0 +1,148 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-image.json",
+  "type": "AnnotationPage",
+  "label": "Image",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-image-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gallery view of 20 frames (including CR, HLG, KJ, RL) scattered applause from those with mics on",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257,260"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-image-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to HLG in Speaker View + Close up in planar framing, behind him is a painting that looks like a print from the Jacob Lawrence migration series of a Black farmer with pigs",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "260"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-image-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to CR in speaker view, medium-close up, eye contact maintained, modern living room with white walls, red couches, abstract color field paintings, a hanging pothos plant, blinds are drawn, but the light outside is bright, likely Rankine's home in Southern California ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "496"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-image-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Share screen of a police training video on bias. The first person shot from a medium-long, low angle. Officer 1 is a white, butch police officer in a pink shirt with a badge in her belt strap and a remote control in her hand. The room appears to be a basement with brown walls, one computer, a chair, a desk, a white board. Camera pans to a second officer, a Black man, in a suit and tie, the police chief. The camera pans again to a white woman looking at them. In Just Us, three stills from this video occur on page 138 (but of the objecting officer in the audience who is off screen) and Rankine transcribes the interaction using their names in the pages that follow. The section in the book is titled \"white male privilege\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "police",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "529,630"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-image-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR begins share screen of notes on the state of whiteness. The copy is a scan from Just Us that looks like a worn book, beginning on page 115 with the line: Their griefs are transient",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1051"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-image-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Switch to gallery view for audible applause, many who had their cameras off turn them on as the page fills with faces.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2396,2501"
+        }
+      }
+    }
+  ]
+}

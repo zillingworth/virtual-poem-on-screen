@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-image-and-environment.json",
+  "type": "AnnotationPage",
+  "label": "Image and Environment",
+  "items": [
+
+  ]
+}

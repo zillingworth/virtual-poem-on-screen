@@ -1,0 +1,200 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/claudia-rankine-canvas-1-poem.json",
+  "type": "AnnotationPage",
+  "label": "Poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR reads poem iii from Just Us: What if over tea, what if on our walks, what if",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "771,812"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR reads poem iv from Just Us: What if you are responsible to saving more than to changing? ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "815,872"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR reads poem v from Just Us: What is it we want to keep conscious, to stay known, even as we; in line 2, CR substitutes \"even\" for each for the line \"say each in our own way, I love so I know I shrink I'm asked\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "substitution",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "874,925"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR reads poem vi from Just Us: What if what I want from you is new, newly made. First line's audio sounds slightly warped due to Wifi disruption and lag",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "927,963"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR begins reading notes on the state of whiteness from page 115 in Just Us: Their griefs are transient",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1081,1085"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR begins reading notes on the state of whiteness from page 115 in Just Us: Their griefs are transient",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1135,1180"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR reads: from James Baldwin's The White Man's Guilt, page 68 in Just Us",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1248,1349"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "claudia-rankine-canvas-1-poem-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR reads the prose poem beginning on page 329 in Just Us: Fantasies cost lives. Ending on the line: What would white people have to graft onto their fantasies so they can treat as real the possibility of true change? True equality? Then skipping sections on the voter demographics by race of the 2008 election. To read on page 331: Reimagining agency is the conversation I want to have. Concluding the reading, CR skips from, There is no beyond of citizenship, to another sentence on the final page 335: Our lives could enact a love of close readings of who we each are, the love of a newly formed, newly conceived \"one\" made up of obscure but sensed and unnamed publics...and reads to the end of the last page. CR: Thank you.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/claudia-rankine/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2050,2391"
+        }
+      }
+    }
+  ]
+}
