@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-poem.json",
+  "type": "AnnotationPage",
+  "label": "Poem",
+  "items": [
+
+  ]
+}
