@@ -1,0 +1,230 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: So first I'm going to share the screen. That's always a point of anxiety...will this work",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "26.0,36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Offscreen male voice: Because if you can have a basis for where the number comes from and what the situation is that puts them in the situation. Officer 1: Mmmhhhmm Off-screen male voice: Are they more likely to be in this situation than someone who's not transgender? Officer 1: Mmhmm yes. Off-screen male voice: Which I don't know what that is, I'm just saying. My wife has never been part of police violence. Most of the people that I know have never been, accused the police of violence. So I guess I don't get where that's supposed to come from.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "policing",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.0,78"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Offscreen female voice: It's a white male privilege so you wouldn't know. Off-screen male voice: I'm sorry?! Off-screen woman: It's a white male privilege so you wouldn't know. Officer 1: I can end this right now, ok? Chief: We want to keep it safe and professional. That's my role and objective. So I don't want to focus on the statistics. Off-screen voice: CHIEF!",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79,98"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Chief: Quite frankly. Off-screen voice: *interrupts* SERIOUSLY, I'M ASKING A LEGITIMATE QUESTION. And I've been taught white privilege are you serious? I find that extremely offensive. Voices overlap. Off-screen voice: In America?! I will leave. I file it on your desk. Chief: We're not talking about white privilege here. We're trying to focus on a different demographic. I'm going to keep this professional. And I apologize if anybody if offended. This data that we have here",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "99,136"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: OK, so when the white woman who told the police officer (she was also a police officer) that he couldn't understand why transgender people were targeted by the police  and she said you can't understand because of your white male privilege that woman was put on leave and was given the position of no longer having any contact with anyone in the police force.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "policing",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "137,178"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR: So thats how she was to live out her time in the police force because she was a bad influence basically. And he the man who brought the charges against her for saying white male privilege, nothing happened to him. So that's that's the state of discourse in 2019. I don't know if things would have changed by now.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whiteness",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "policing",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "179,203"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:But I wanted to begin with a quote from Paul Celan, he says, What times are these when a conversation is almost a crime? Because it includes so much made explicit. What times are these when a conversation is almost a crime? And with that I will start reading initially the opening poem from Just Us.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Celan",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "204,233"
+        }
+      }
+    }
+  ]
+}
