@@ -27,31 +27,31 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-transcription.json",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-clip-of-claudia-rankine-for-wpr-canvas-1-transcription.json",
             "label": "Transcription"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-image-and-notes.json",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-clip-of-claudia-rankine-for-wpr-canvas-1-image-and-notes.json",
             "label": "Image and Notes"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-poem.json",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-clip-of-claudia-rankine-for-wpr-canvas-1-poem.json",
             "label": "Poem"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-image-and-environment.json",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-clip-of-claudia-rankine-for-wpr-canvas-1-image-and-environment.json",
             "label": "Image and Environment"
           }
           ,
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-image.json",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-clip-of-claudia-rankine-for-wpr-canvas-1-image.json",
             "label": "Image"
           }
         ],

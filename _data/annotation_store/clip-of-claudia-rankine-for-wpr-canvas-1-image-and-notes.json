@@ -4,6 +4,27 @@
   "type": "AnnotationPage",
   "label": "Image and Notes",
   "items": [
-
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-image-and-notes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Share screen of a police training video on bias. The room is basement with brown walls, one computer, a chair, a desk, a white board. The screen begins with an image of a Black man in a coat and tie. It quickly cuts to a white woman in a pink shirt with short hair and a badge. All figures are shot from a slight low angle. The video cuts back to the Black man who is the police chief. In Just Us, three stills from this video occur on page 138 (but of the objecting officer in the audience who is off screen) and Rankine transcribes the interaction using their names in the pages that follow. The section in the book is titled \"white male privilege\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "36.0"
+        }
+      }
+    }
   ]
 }

@@ -6,6 +6,28 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-image-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR in speaker view, medium-close up, eye contact maintained, modern living room with white walls, red couches, abstract color field paintings, a hanging green leafy plant, blinds are drawn, but the light outside is bright, likely Rankine's home in Southern California",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "clip-of-claudia-rankine-for-wpr-canvas-1-image-annotation-1.json",
       "type": "Annotation",
       "motivation": [

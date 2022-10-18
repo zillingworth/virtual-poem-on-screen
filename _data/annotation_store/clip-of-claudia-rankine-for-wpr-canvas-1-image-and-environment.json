@@ -4,6 +4,27 @@
   "type": "AnnotationPage",
   "label": "Image and Environment",
   "items": [
-
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-image-and-environment-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gallery view of 20 frames (including CR, HLG, KJ, RL) applause from those with mics on",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "0.0"
+        }
+      }
+    }
   ]
 }

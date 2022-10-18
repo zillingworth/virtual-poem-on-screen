@@ -6,6 +6,36 @@
   "items": [
     {
       "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CR:Thank you, thank you, Professor Gates, Christina Davis, and everyone for spending this evening with me. I've been looking forward. I'm going to start by showing a video because why not? And then I will read. So first I'm going to share the screen. That's always a point of anxiety...will this work",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/clip-of-claudia-rankine-for-wpr/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.0,36.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
       "id": "clip-of-claudia-rankine-for-wpr-canvas-1-transcription-annotation-1.json",
       "type": "Annotation",
       "motivation": [
