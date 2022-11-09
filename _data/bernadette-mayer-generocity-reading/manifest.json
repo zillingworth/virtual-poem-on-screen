@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Bernadette Mayer: Generocity Reading" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "Bernadette Mayer: Generocity Reading" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "cuneiformpress.com",
+        "type": "Agent",
+        "label": { "en": [ "Cuneiform Press" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 4833.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia801504.us.archive.org/4/items/bernadette-mayer-zoom-reading/Bernadette%20mayer%20zoom%20reading.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 4833.0
+                },
+                "target": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
