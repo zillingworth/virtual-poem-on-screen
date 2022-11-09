@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-transcription-and-poem.json",
+  "type": "AnnotationPage",
+  "label": "Transcription and Poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-transcription-and-poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "SL exhales. And the next poem, \"My Favorite Color\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1245,1336"
+        }
+      }
+    }
+  ]
+}

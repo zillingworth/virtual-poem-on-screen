@@ -1,0 +1,44 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image--sound--and-transcription.json",
+  "type": "AnnotationPage",
+  "label": "Image, sound, and transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-image--sound--and-transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Even if you know like Nabokov (changing to Russian pronunciation) NabOkov said there playing with blocks when he was a kid, they're all the wrong colors (Sound of Venmo app receiving money) and his mother said yes I know. BM laughs and so does BK.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Nabokov",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "money",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "612,630"
+        }
+      }
+    }
+  ]
+}

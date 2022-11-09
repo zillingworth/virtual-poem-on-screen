@@ -23,6 +23,128 @@
         "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4833.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem--environment--image.json",
+            "label": {
+              "none": ["Poem, environment, image"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image-and-transcription.json",
+            "label": {
+              "none": ["Image and transcription"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-transcription-.json",
+            "label": {
+              "none": ["Transcription "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-transcription-and-sound.json",
+            "label": {
+              "none": ["Transcription and sound"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image--sound--and-transcription.json",
+            "label": {
+              "none": ["Image, sound, and transcription"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem.json",
+            "label": {
+              "none": ["Poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-transcription-and-poem.json",
+            "label": {
+              "none": ["Transcription and Poem"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image.json",
+            "label": {
+              "none": ["Image"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image-and-transcrription.json",
+            "label": {
+              "none": ["Image and transcrription"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem-.json",
+            "label": {
+              "none": ["Poem "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem-and-image.json",
+            "label": {
+              "none": ["Poem and image"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image-and-sound.json",
+            "label": {
+              "none": ["Image and sound"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-transcription.json",
+            "label": {
+              "none": ["Transcription"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image-and-transcription-.json",
+            "label": {
+              "none": ["Image and Transcription "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem-and-sound.json",
+            "label": {
+              "none": ["Poem and sound"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/paintings",

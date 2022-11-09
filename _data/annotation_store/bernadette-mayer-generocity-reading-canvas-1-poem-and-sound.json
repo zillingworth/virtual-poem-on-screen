@@ -1,0 +1,86 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem-and-sound.json",
+  "type": "AnnotationPage",
+  "label": "Poem and sound",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-poem-and-sound-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "PG reads Should We Panic? (Sound of Venmo transaction on phone in background)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Bernadette",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Williams",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "computing",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2698,2760"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-poem-and-sound-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "BM: This is called, I am taken about your Actual Fish. (During performance there is sound of the Venmo app in the background)",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "catholic",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "sex",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4059,4088"
+        }
+      }
+    }
+  ]
+}

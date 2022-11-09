@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image-and-transcrription.json",
+  "type": "AnnotationPage",
+  "label": "Image and transcrription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-image-and-transcrription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "BK in speaker mode: Well, I, I, that, that I'm glad you said that because I also wanted to ask you about color, I've heard that you have some ideas or you like to talk about the color of letters of the alphabet. And I was just going to ask you to say a bit about the color letters.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "438,462"
+        }
+      }
+    }
+  ]
+}

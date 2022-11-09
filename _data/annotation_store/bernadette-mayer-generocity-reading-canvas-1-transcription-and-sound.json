@@ -1,0 +1,60 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-transcription-and-sound.json",
+  "type": "AnnotationPage",
+  "label": "Transcription and sound",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-transcription-and-sound-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of laughter and background noise. BK: Will someone confirm that they can? Audience: YES! BK: Ok ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "278,283"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "bernadette-mayer-generocity-reading-canvas-1-transcription-and-sound-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "SL exhales and smiles: And next up we've go Zoe Darsee. Thank you. SL laughs and leans head on hand. Sound of scattered applause. And next up we've got Zoe Darsee in Berlin. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "place",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1336,1345"
+        }
+      }
+    }
+  ]
+}
