@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image--sound--and-transcription.json",
-            "label": {
-              "none": ["Image, sound, and transcription"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem.json",
             "label": {
               "none": ["Poem"]
