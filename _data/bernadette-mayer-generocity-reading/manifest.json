@@ -96,14 +96,6 @@
               "none": ["Poem "]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-poem-and-image.json",
-            "label": {
-              "none": ["Poem and image"]
-            }
-          }
         ],
         "items": [
           {
