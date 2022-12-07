@@ -7,7 +7,7 @@ permalink: bernadette-mayer-generocity-in-context
 using HTML or markdown.  Do not modify this file above this line -->
 ![119059887_10116188491230680_9069013596330360333_n](https://user-images.githubusercontent.com/70542175/206259806-25fbae85-7fcf-4750-8ef8-9ff03041d984.jpeg)
 
-##Generocity: A Poetry Reading and Fundraiser for Bernadette Mayer
+## Generocity: A Poetry Reading and Fundraiser for Bernadette Mayer
 
 The *New York Times* obituary for Bernadette Mayer published on December 4, 2022 ends with a quote from the poet, expressing her embrace of the imperfect words that must attend our imperfect world: “The idea of perfection in a poem is pretty stupid. Because if nothing else is perfect, why should a poem be perfect?” It is this imperfect mode of recording an imperfect world, resonant with Mayer’s maximalist poetics of the everyday, that the Zoom-recording of, Generocity: A Night of Poetry with Bernadette Mayer and Philip Good, reveals and which my annotations of it attempt to express through audio and visual transcription.
 
