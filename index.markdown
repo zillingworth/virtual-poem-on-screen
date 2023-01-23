@@ -4,3 +4,4 @@
 
 layout: home
 ---
+"The Virtual Poem Embodied on Screen" examines Zoom poetry readings as potentially overlooked artifacts. 
