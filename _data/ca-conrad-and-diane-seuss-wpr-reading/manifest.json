@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "CA Conrad and Diane Seuss WPR Reading" ] },
+    "homepage": [
+      {
+        "id": "archive.org",
+        "type": "Text",
+        "label": { "en": [ "CA Conrad and Diane Seuss WPR Reading" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "The Woodberry Poetry Room" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 3616.0,
+        "items": [
+          {
+            "id": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601609.us.archive.org/29/items/conrad-and-seuss-reading/Conrad%20and%20Seuss%20Reading.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": 3616.0
+                },
+                "target": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
