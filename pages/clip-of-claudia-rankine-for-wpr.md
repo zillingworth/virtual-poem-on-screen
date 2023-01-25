@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Clip of Claudia Rankine for WPR
 manifest_name: clip-of-claudia-rankine-for-wpr
 permalink: clip-of-claudia-rankine-for-wpr

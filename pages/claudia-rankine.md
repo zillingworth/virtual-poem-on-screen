@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Claudia Rankine
 manifest_name: claudia-rankine
 permalink: claudia-rankine
