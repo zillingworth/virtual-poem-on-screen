@@ -23,16 +23,6 @@
         "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4833.0,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/bernadette-mayer-generocity-reading-canvas-1-image--sound--and-transcription.json",
-            "label": {
-              "none": ["Image, sound, and transcription"]
-            }
-          }
-        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/virtual-poem-on-screen/bernadette-mayer-generocity-reading/canvas-1/paintings",
