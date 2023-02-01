@@ -1,0 +1,3568 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes.json",
+  "type": "AnnotationPage",
+  "label": "Notes",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Film countdown Intro",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,7.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "1. Woodberry Poetry Room 2. Vocarium Reading Series / CA Conrad & Diane Seuss October 18, 2021)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "8.0,14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A white blond woman wearing black and cat-eye glasses sits in her living room in a close-up. Behind her is a mirror, book shelf, table with unidentifiable knick-knacks, a bright lamp, and drawn blind. It is night.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "18.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: Good evening and welcome to tonight's reading by two authors that share a committemnt to manifesting frankness in all its forms.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18.0,26"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: Frank, being not of beloved beings seared onto the covers of their best known books, but also an ethics of liberation. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ethics",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "27,37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: Frankness, coming from the root word meaning free, an ethos that extends far beyond the page",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ethics",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38,44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: They do not, as Will Alexander writes, forbid themselves their own volcanism, or let gradually themselves be silenced or confined by pre-existing forms or formations.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Alexander",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "45,58"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: They are as Adrienne Rich once said of Dickinson, volcanoes in the house of poetry, with what Terence Hayes has called, tenacity and intensity, with rage and grace",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Rich",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Dickinson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Hayes",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59,71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: They do us the supreme justice of presenting the full-blowness and dimensionality of our being. I rejoice in their freedom which is never a past tense of freedom but always seems to be occurring in the permanent precarious now of their work.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "freedom",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "72,90"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CD: In this quality and others I find they resonate with the writings of the late, great Diane di Prima. And with the work of our introducer tonight, the one and only Ariana Reines. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "diPrima",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "91,102"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: Ariana had a last minute travel change, no doubt some residual mercury retrogration is in the air. In lieu, of her live presence tonight she has offered this thoughtful, substantive, and downright inimitable mediation.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "102,118"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: Please welcome the pre-recorded but no less powerful Ariana Reines.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "119,124"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A white blond woman with curly hair, wearing a red sweater, black rimmed glasses, and a nose ring sits at a low angle. There is a large green leafy plant in the foreground next to her, another green leafy plant in the background, and a book shelf with an assortment of books. There is a blind half lowered and it appears to be night. This looks like her home office. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "126"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Hello. My name is Ariana Reines and it's my thrill and honor to be introducing CA Conrad and Diane Seuss to you tonight. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "126,136"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Welcome to the Woodberry Poetry Room at Harvard, uh, virtually. This is a very, very special place. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138,148"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And before I say a few words about Conrad and Diane's work, I want to acknowledge the poet Christina Davis who curates this series and who masterfully runs this space. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "148,164"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Um, the Woodberry Poetry Room is the beating heart and soul of a place that is very hostile to beating heart and soul. And um I din't want to be a dick so I won't tell you what I'm referring to but you all know I'm talking about a certain institution ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "164,185"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: But I'm really also talking about as we know it right now. Um Poetry is a place we go to be refreshed. The soul is reborn through it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "186,201"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And I think language itself wants to go into poetry to find refreshment too. And that those of us who have it flowing through us find language pushing us driving us into that place to quench our thirst and to find resurrection. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202,224"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And I see tonight as a resurrectionary night. Um, mercury goes direct today Monday, October 18th 2021. And I don't know about you but the mercury in retrograde we've just been through, hump, we're still dealing with it was definitely the heaviest and harshest mercury in retrograde possibly in my entire life. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "224,258"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: So I'm really excited that this event can act as a portal to usher us into the new world. The new world that happens after we've been refreshed by these poems and by these poets. I'm going to confine my remarks mostly to the newest books by both. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "259,281"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Because in a way we're celebrating these books tonight. Amanda Paradise is jusst out from Wave and CA Conrad I imagine will be reading from that book. Althought they write so much we could be hearing brand new things. And Diane Seuss has a new book from Graywolf called Frank and it is a sequence of sonnets constituing a kind of a memoir but more than a memoir.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "282,310"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And both are really really powerful extraordinary stunning works. Just a few words about some things that I see both poets have in common. Because they are very diffreent poets but there are worlds that their poetry returns to me and there are places in me that their poetry reaches that a lot of poetry doesn't.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "311,341"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Death and elegy are a major part of the work of both these poets. But their work absolutely pulses with life and you have the sense that althought technical mastery is on display in every line in every word in every cut of the line on every page for both poets that these are people pulsing with life for whom the dry and technical the merely excellent is not enough. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "347,378"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And I love that about both of them. There's so much blood and guts there is sex and tears there is solitude loneliness, mournfulness, fury, there is real life shit and there is social shit, family shit. the impossible filth of desire",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "381,411"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And the purity of being and a sense that you can expand yourself to encompass all this and include all this. that is something that the work of both poets gives. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "411,427"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: So a few words about my friend CA Conrad and their new book Amanda Paradise as they are reading first tonight. I really believe that it is the singular charisma and also immense generosity, the magnitude of CA Conrads work that has made a lot of snobby people and dried up souls suddenly open themselves to magic. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "430,463"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Conrad wouldnt like it, I dont think for me to say that its them that its because of them that there is a certain curiousity if not respect for certain modes of being and of experience that go beyond the empirically-ratified. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "467,488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: But I really do believe that way they have trained their voice, the way that they have fearlessly described their methods, and the charisma with which theyve delivered all this into the halls of academe and the highest palaces of art all across the globe ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "490,511"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: people have found themselves interested in arts potential to heal not as some thing they look down upon or something femmes do but as something really serious and worthy of genuine curiousity.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "512,529"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Conrad has a warrior spirit and they are a warrior for art for life and for love. They are totally without pretension. As long as I've known them they are always giving out broadsides doing their poetry and their reiki and their healing work in any place that they can",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "530,552"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: However fancy, however random fearlessly. Which is not to say they are not senstivie enough to feel fear. They are a Warrior. Amanda Paradise is resurrectionary in the way that all of their books are but in a very very particular way",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "553,579"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR:There's a tenderness in these poems that is aching and searing. They are filled with love and sex and an understanding of the absolute waste of the way that we let ourselves and our souls die.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "580,603"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: In this mechanistic culture and Conrad's entire poetics is a war against the mechanistic deadening of the soul and the renewing and continually renovating creativity that their work shows is a testament to the healing power of their methods.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "606,629"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Resurrect Extinct Vibration was maybe the first somatic and the first poem of this book that I encountered and I got to hear Conrad read from it and the courage of it overwhelmed me at the time.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "632,650"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Conrad uses their body in order to face these enormous realities that are very difficult for us to grasp in our senses. Not cutting their hair until the war ends, but it has been forever war for as long as Ive been an adult, filling their body with the sound or bird song extinct bird song, filling their body with vile political speeches.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "651,684"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Willingly using their body as an organ as an instrument in order to produce the visionary poems that save our lives",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "685,697"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Diane Seuss's new book Frank is an absolutely virtuousic and spellbinding memoir in verse. Its a sequence of sonnets by someone so wild, a spirit so wild it its just absolutely hilarious and wonderful the way taht this old form has accommodated her absolutely endless mind ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "705,736"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: And she returns me to the original soneteers who I think were pretty groovy too, It is interesting that such tiday, pert, tart little form could accommodate so much. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "737,754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Frank is an absolutely devastating, gorgeous, luscious book. THinking of its cousins I thought of Frank Stanford, Wanda Coleman, and the late James Schuyler, the later Schuyler, but really Diane Seuss is Seussian just as Conrad is Conradian. These two poets who are really, really without compare.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "755,782"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: I adored reading this book. I could not put it down. I saw myself in many lines and on many pages. And I want to say something about the way that the way that Diane Seuss weaves a wold that is lush, the characters, the family, the friends, the milkweed, the colors ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "790,824"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: connecting the light of dawn to a dish rag, the light of evening to a menstreaul rag, the ways that immensities, bodily realities, and social bullshit are all real but all expand and contract in this magic space that she creates.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "829,852"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: She invokes Keats a lot and I think that the spirit of Keats was very much with her as she wrote these sonnets. To me Keats is the one who liquified the sonnet and Diane has pure liquid quick silver mind. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "854,874"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: These are poems that bear witness to AIDS, to the mother-daughter relationship, to the mother-son relationship, to addiction, to bad love, to love gone wrong, to sickness and tormet of desire. Basically all the hings youd want from poetry. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "876,899"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "AR: Anyway I better shut up and let you hear from these two and I hope that you'll make them read long. Thank you so much CA Conrad and Diane Seuss.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "900,913"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "914,915"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gallery view of 16 to 20 people clapping, CA pops up in the lower right corner at 15:15",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "915,925"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: Wow, that was an amazing introduction. *Claps hands* Thank you so much Christina for having me, I am very excited to be reading with Diane and thank you so much everyone who makes the Woodberry Poetry Room work. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "920,934"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Split Screen with CD on the left and CA on the right",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "928,934"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA in speaker view. They are a person with long hair, black painted nails, glasses, a necklace with cand floral blouse. It is a close-up and behind them is greenery. They talk with their hands very emphatically and frequently.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "935"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: That was an incredible introduction. And I mean Ariana basically explained most of the ritual I did to write this new book. So I don't really need to.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "936,946"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: I just wanna add one little thing before I share the screen to read the poems, is that the new book came to me when I was working on the last book,. I was at this marvelous place in New Hampshire called McDowell and I was in the forest working on a ritual to overcome a very serious debilitating deblitating depression after a boyfriend of mine was murdered.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "947,971"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA:  But it was when that work it was when that grabbed a hold of me and worked out there in the forest when this book came in And the idea, I can't really explain all of it is is too much to explain but I just wanna say this briefly.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "973,986"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: I was focusing on the recordings of these creatures who become extinct in my lifetime because I was thinking about ecopoetics as more well more than just a conversation about degraded soil air and water, also about vibrational absence.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ecopoetics",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "987,1007"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: When a species leaves the planet they take all of their sounds with them. And I wanted to bring that back to the air a little bit as I was doing this around the country, flooding my body, starting at my feet and moving up to my head. There were actually nine ingredients that's just one working with recordings but I would rather shared some poetry right now. And then I share the screen.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1008,1030"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA begins share screen in speaker mode. There is an image of the book cover for Amanda Paradise: Resurrect Extinct Vibration. The cover looks like Wave Books publication, simple cream-colored cover with an all caps font and stars under the title. They are on the right side of the screen and their image is about a third the size of the shared screen. They scroll down and change the scale of the view to be a bit more distant for the poems. And then scroll back up to the cover.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1030,1051"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: Amanda Paradise...I also wanted to thank everybody at Wave Books for taking such beautiful care of my poems. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Wave",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1041,1051"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Screen share of first poem in Amanda Paradise. It is called, ONLY IN STACKING BOOKS CAN THE TREE FEEL ITS WEIGHT AGAIN. It is a concrete poem with an assymetrical and bent alignment. It curves in and out a number of times with the last line ending more left aligned than the first. And a good deal of variation in line length. CA remains on screen during the share.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1059"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads ONLY IN STACKING BOOKS CAN THE TREE FEEL ITS WEIGHT AGAIN",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "jingoism",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "sex",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "love",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "EricaKaufman",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1059,1151"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: This is a good moment to just briefly mention that one of things that I confronted about myself when doing this ritual was my guilt at enjoying doing the ritual with all these recordings of extinct animals ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1153,1169"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: And that guilt braided with my guilt of...so many friends and lovers who died of AIDS and they just appear over and over again in this book",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1169,1178"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA scrolls down the manuscript in their share screen to the next poem, another very curved shape poem: ACCLIMATING TO THE DISCOMFORT OF THE SYSTEM BREAKING BENEATH US",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1179,1182"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA reads ACCLIMATING TO THE DISCOMFORT OF THE SYSTEM BREAKING BENEATH US. They rock back and forth and use numerous hand gestures while reading.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1183,1271"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA scrolls down the manuscript in their share screen to the next poem, MEMORIES OF WHY I STOPPED BEING A MAN, for Jason Dodge. This poem's shape begins with a far right alignment curving like a helix to the center of the page. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1272,1275"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: I wanted to say I'm really prou--I'm really excited about this. Angela Connit who is this really brilliant art curator in New York City working with the Elizabeth foundation for art ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1276,1287"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA:invited me to be part of the Boy Box show at their gallery just a couple months ago. And she asked me how I wanted to participate and I said I wanted one of my poems to be in the show. So because of the content of the show, its about toxic masculinity",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "masculinity",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1287,1304"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: and that is exactly what this poem is dedicated to, she brilliantly printed this poem on six feet of chiffon and had it dangling from the ceiling. It was absolutely amazing! My love to Angela Connit. And I dedicate this poem to my favorite living visual artist Jason Dodge who is just extraordinary! ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1304,1325"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads MEMORIES OF WHY I STOPPED BEING A MAN",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "masculinity",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1329,1412"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-68.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA scrolls down to another poem ON ALL FOURS I AM A SEAT FOR THE WIND. The shape of the poem vaguely resembles Texas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1413"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-69.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: This looks I know I know the shape of this poem looks like Texas and that's why I'm reading it. Texas needs poetry right now. CA takes a big sip from a white water bottle...For all of my friends in Texas dealing with the fascists down there in the government. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Texas",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "politics",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1416,1436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-70.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA reads ON ALL FOURS I AM A SEAT FOR THE WIND ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1438,1518"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-71.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: I mean I don't think minks meow but",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1519,1520"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-72.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA scrolls through the manuscript to a poem titled 72 CORONA TRANSMUTATIONS and says: So I think I'm gonna end this portion of the reading and then I'm gonna just end with some new poems. So the book ends with this long 72 part poem in the back. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1522,1533"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-73.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: I'm just going to read a handful of these. And This is one I really--this was under lock down in the beginning most of the nook was not written under lock down but this last poem in the book was. Let me enlarge that a little bit. Why not right? Here let's make it a little bigger. How's that? CA enlarges poem text a few times, which becomes more legible at 125% or so. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1534,1550"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-74.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: Yeah, I mean lockdown was just like AIDS all over again to some degree. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "AIDS",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "COVID",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1554,1545"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-75.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads the first of the series of poems 72 CORONA TRANSMUTATIONS ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "AIDS",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1546,1575"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-76.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads the second of 72 CORONA TRANSMUTATIONS, my grandmother Pearl said...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "AIDS",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1579,1615"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-77.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA scrolls to and reads 3 of 72 CORONA TRANSMUTATIONS ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "AIDS",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "EdvardMunch",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "SpanishFlu",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1620,1649"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-78.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA scrolls to and reads 4 of 72 CORONA TRANSMUTATIONS",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ecopoetry",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1653,1683"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-79.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA scrolls to and reads 5 of 72 CORONA TRANSMUTATIONS",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "migration",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "concretepoetry",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1690,1725"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-80.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: I'm gonna finish with just reading a handful of new poems, but let me just put this over in the chat for you. That's hwo you can find. The IG...the instagram link is where you can see most of the new poems",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "platform",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "instragram",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1730,1746"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-81.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: Ok, lemme finish this. And I'm very excited to hear Diane and I just love everything Ariana said about Christina Davis as well. I love Christina. I'm very happy. I'm going to make that a tiny bit smaller *CA downsizes screen share image to 100 percent view so that its bottom is just at the bottom of the screen* There we go!",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ArianaReines",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "ChristinaDavis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1748,1772"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-82.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA:  I like that. That's better.  want it to stand on... It's like a little creature standing up. We'll put it down at the bottom. *Claps hands* I'm not even going to tell you the name of this new series. Because I don't like it anymore. I'm just gonna read the poems.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "concretepoetry",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1773,1788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-83.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads \"Our / little / places / within / are not / dungeons,\" shaking their head, and gestures with their hands pointing up in line with the poem's themes of inverse directions",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "astronomy",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "military",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1789,1820"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-84.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: I, you know, am about to leave. I teach in the fall every fall. This is my twelth year teaching in Amsterdam. People in Europe do not understand how dualistic we are.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Europe",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "America",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1821,1836"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-85.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: We can't even have three political parties. It's christianity rules here. It's like the devil and god rule everything. We can't even have a third party. They won't allow us. We can't even have a third gender. Well we will anyway. We don't really care what they wanna do.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "politcs",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "christianity",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "gender",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1837,1853"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-86.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads \"A storm of / handwriting\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "concretepoetry",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1854,1885"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-87.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads \"not nostalgic / for 80s music\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "AIDS",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christianity",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1891,1921"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-88.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA comments: I hate 80s music",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "music",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1895"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-89.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA: Take that Jesus!",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Christianity",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1923,1925"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-90.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads \"what was / the point / of today\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "elegy",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "religion",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "LGBTQ",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1927,1968"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-91.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "On the line, this is my four leaf clover, CA says: That was a song from the 80s from Tears for Fears",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "music",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1969,1972"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-92.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads: \"swallowed / each other\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "LGBTQ",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1973,1992"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-93.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA after last line of poem: Why not?...Just a few more.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1993,1998"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-94.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA reads: \"losing / something / too important\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2002,2023"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-95.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: This is the reason I'm writing these new poems. The opening of this poem. To fall in love with the world again. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2028,2034"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-96.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA reads: \"To / desire / the world\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2038,2057"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-97.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA repeats first line and reads: \"Study how / house is/ attached\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "miltiary",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "sixties",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2060,2091"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-98.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA: this is the last one. Thank you so much.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2092,2095"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-99.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "CA reads \"do not live as / though you are / a footnote\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "America",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2096,2127"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-100.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CA closes share screen and in speaker view blows a kiss and says Thank you so much",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2128,2132"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-101.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of clapping and gallery view of 16 to 20 people many of whom are not clapping",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2133,2143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-102.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Diane Seuss in speaker view. The room behind her is very dark with some blue fairy lights and one or two lamps. She is a white woman with bangs, black hair, pink lipstick, and thick eyeliner. As she reads, she ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2146"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-103.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS: Well that was jsut simply glorious CA. I feel really honored to share screen with you and air. Let's make poems that can rob a bank. *Off-screen laughter*",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2146,2161"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-104.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS: I wanna thank everybody involved in making this night happen. Christina Davis, Mary Gaham, Jeffrey Vlade, who has family where I live, and of course Ariana for that lvoely introduction and of course you CA Conrad and everybody at the Woodberry Poetry Room, ah, ok...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Davis",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Graham",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Conrad",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2164,2192"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-105.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS: So I'm going to read all sonnets from my newest book, Frank Sonnets. ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "sonnet",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2197,2206"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-106.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS: \"Poetry the only father, landscape...\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "poetry",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "childhood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "sexuality",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "embodiment",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2208,2297"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-107.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads: Who wants to be soft? after the line \"even my sister,\" DS says: who is here tonight",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "childhood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "whitford",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "christianity",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2300,2393"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-108.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS: This is from my hometown my...the musci I hear from it ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2395,2402"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-109.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads \"One's got an eye thing...\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "childhood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "embodiment",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "disability",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2406,2481"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-110.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads: The white rabbit was before the hi-rise",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "adolescence",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2492,2596"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-111.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads I have slept in many places  ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "place",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2610,2707"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-112.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads: I fell on an incline...",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "embodiment",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "pain",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "place",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "parenthood",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "birth",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2718,2815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-113.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads: There is a force that breaks the body",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "rhyme",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "pain",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "suffering",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Donne",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "blues",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2825,2905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-114.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS: I mentioned sleeping with Michel by TV light way back when in an alleyway and going out to see him before he died in the mid-eighties of AIDS and this is about him.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "AIDS",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2913,2935"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-115.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads I want to zero-in on what he looked like ",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "Chinatown",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "JackNicholson",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "NeilYoung",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "death",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2937,3061"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-116.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS: This is him too",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3067"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-117.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads He said it bummed him out his dick didn't work anymore",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "SF",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "drag",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "charisma",
+          "format": "text/plain",
+          "purpose": "tagging"
+        },
+        {
+          "type": "TextualBody",
+          "value": "death",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3070,3157"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-118.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "DS reads You know what living means? Tits out",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "aging",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3167,3251"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-119.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS: How about one more? And I'll dedicate this to everyone in the poetry room who helped and to CA. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3259,3275"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-120.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS reads: My private parts are many",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3278,3141"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-121.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS: Thank you. Switch to gallery view in which many people applaud, but superimposed OVER speaker view image of DS",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3143,3398"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-122.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Switch from speaker view of DS to speaker view of CD. CD: Thank you so much everyone please feel free to unmute your mics and give your thanks to our two guests and thank them. Unmute thyseves and thank them.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3400,3409"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-123.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gallery view and a cacophone of thank yous, that was amazaing, brilliant etc. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3400,3430"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-124.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: We are going to turn pretty soon to the outro tune that our DJ Diane chose tonight. We would ordinarily choose just George Michael songs, but since CA DS: That would've been a good choice. CD: Tears for Fears all the way (triangulates between speaker view of CA, CD, and DS)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3430,3446"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-125.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CD: But Diane do you want to speak for a moment about why you chose the song you chose. They don't know yet. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3446,3453"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-126.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Cut to speaker view of DS. But with an audience member in speaker view briefly due to mic on, nodding in agreement. DS: yeah so this song ccarries the perfurme of the time I didn't read about it. when I lived in NY on the lower east side of Manhattan when i was young and in a lot of trouble and the velvet underground were around. And I would see members especially Lou Reed at CBGB.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3460,3484"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-127.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "DS: But it also carried a kind of sadness. This singer Nico and her story, which look it up if you don't know quite interesting, so it holds you know the memory of that place and this idea of the femme fatale which I htink comes up in my work and in CA's work ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3486,3518"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-128.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Audience members pops into view briefly. The Velvet Underground's Femme Fatale begins playing ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3518"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-129.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "cut to gallery view from speaker view, CD: I think we're gonna move into the music and then you can stick around just groove to it sign off and we'll end the night",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3520,3530"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-130.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Intertitle explaining song has been removed for copyright and that Diane Seuss chose Femme Fatale by the Velvet Underground (Sceptre, 1966)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "2154,3540"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-131.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Intertitle states that: we've selected excerpts from the chat to reflect the interactive nature of the event ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3541,3544"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "ca-conrad-and-diane-seuss-wpr-reading-canvas-1-notes-annotation-132.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Sound of film camera rolling over Transcript of many messages in chat from individuals like Seuss's son: Hello from Houghton Michigan, Hi Mom! And others by name. Then demarcated by reader for CA Conrad and Diane Seuss respectively including lines everyone liked, \"CD: Let's make poems that can rob a bank\" and other praise, Thrilling, for Diane Seuss many remarks on the sonnet form, Love these poems, Thank you, gorgeous reading, etc, ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/virtual-poem-on-screen/ca-conrad-and-diane-seuss-wpr-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3549,3610"
+        }
+      }
+    }
+  ]
+}
