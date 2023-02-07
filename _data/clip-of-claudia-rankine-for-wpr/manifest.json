@@ -40,14 +40,6 @@
               "none": ["Image and Notes"]
             }
           }
-          ,
-          {
-            "type": "AnnotationPage",
-            "id": "https://zillingworth.github.io/virtual-poem-on-screen/annotations/clip-of-claudia-rankine-for-wpr-canvas-1-poem.json",
-            "label": {
-              "none": ["Poem"]
-            }
-          }
         ],
         "items": [
           {
