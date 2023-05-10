@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: 'Bernadette Mayer: Generocity Reading'
 manifest_name: bernadette-mayer-generocity-reading
 permalink: bernadette-mayer-generocity-reading
